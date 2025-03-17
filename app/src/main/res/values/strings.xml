@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">mimOE Enabled AI Chat Demo</string>
+    <string name="enter_query">Enter your message…</string>
+    <string name="model_progress">Model Download Progress: %s%%</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="model_not_ready_yet">Model %s not ready yet!</string>
+    <string name="hint_id">Model ID</string>
+    <string name="hint_object">Model Object</string>
+    <string name="hint_url">Model URL</string>
+    <string name="hint_owned_by">Model Owned By</string>
+    <string name="button_add_model">Add Model</string>
+    <string name="question_header">Question</string>
+    <string name="response_s">Response (using %s)</string>
+    <string name="response">Response</string>
+    <string name="developer_id_token_expired">The Developer ID Token has expired!</string>
+    <string name="could_not_parse_developer_id_token">Could not parse Developer ID Token!</string>
+    <string name="button_add_description">Add a new model</string>
+</resources>
