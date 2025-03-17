@@ -38,8 +38,8 @@ Once these values are configured, you can run the application, which will automa
 
 In order to get more out of this article, the reader could further familiarize themselves with the following concepts and techniques:
 
-- [Understanding the mimik Client Library for Android](/key-concepts/11-index).
-- [Creating a Simple Android Application that Uses an edge microservice](/tutorials/01-submenu/03-submenu/01-index).
-- [Integrating the mimik Client Library into an Android project](/tutorials/01-submenu/03-submenu/02-index).
-- [Working with edge microservices in an Android project](/tutorials/01-submenu/03-submenu/04-index).
-- [Working with AI language models in an Android project](/tutorials/02-submenu/03-submenu/01-index).
+- [Understanding the mimik Client Library for Android](https://devdocs.mimik.com/key-concepts/11-index).
+- [Creating a Simple Android Application that Uses an edge microservice](https://devdocs.mimik.com/tutorials/01-submenu/03-submenu/01-index).
+- [Integrating the mimik Client Library into an Android project](https://devdocs.mimik.com/tutorials/01-submenu/03-submenu/02-index).
+- [Working with edge microservices in an Android project](https://devdocs.mimik.com/tutorials/01-submenu/03-submenu/04-index).
+- [Working with AI language models in an Android project](https://devdocs.mimik.com/tutorials/02-submenu/03-submenu/01-index).
